@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name liziang/ Site Title"
+title                    : "李子昂 liziang/ 个人简历 "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
